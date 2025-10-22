@@ -1,6 +1,8 @@
 # qgcomp
 Quantile g-computation for continuous, binary, count, and censored survival outcomes Use qgcomp With (In) R Software
 
+https://www.youtube.com/watch?v=PWmJxnfTcBU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
